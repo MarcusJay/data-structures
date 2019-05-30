@@ -1,0 +1,9 @@
+/node_modules
+.DS_Store
+*.env
+___dotenv___
+yarn-error.log
+yarn.lock
+.next
+/.idea
+static/css/app.css
